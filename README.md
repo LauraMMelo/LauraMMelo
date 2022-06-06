@@ -1,6 +1,7 @@
 ### Hi there! I'm Saulo!
 
-Data Scientist, Python developer, researcher into ML and Big Data, enthusiast of all AI related things. Likes photography, gaming and cooking in his free time. 😄 
+Data Scientist, Python developer, researcher into ML and Big Data, enthusiast of all AI related things. Likes photography, gaming and cooking in his free time. 😄
+NB 🏳️‍⚧️ | Pronouns: They/Them
 
 - 🎓 Pursuing a master's degree in Pattern Recognition and Dynamic Systems at Univesidade Federal do Ceará (UFC)
 - 🎓 Bachelor in Computer Engineering at Univesidade Federal do Ceará (UFC)
